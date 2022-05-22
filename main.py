@@ -25,8 +25,6 @@ async def on_ready():
 ██║░╚███║╚██████╔╝██║░╚██╗███████╗  ██████╦╝╚█████╔╝░░░██║░░░  
 ╚═╝░░╚══╝░╚═════╝░╚═╝░░╚═╝╚══════╝  ╚═════╝░░╚════╝░░░░╚═╝░░░ 
 
-Support Server:https://discord.gg/U2mefh6DtN
- J
  ''')
    await client.change_presence(activity=discord.Game(name="American Nuclear"))
 
