@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 from webserver import keep_alive
-token = "OTU2NTIwNTI1MTA5Mjg5MDUw.YjxbKA.4nVKiXWNnqaSMG1ybLIlMgUXLp4"
+token = "TOKEN HERE"
 
 
 SPAM_CHANNEL =  ["B-83 runs you" , "Get Banned" , "NUKED" , "oops Beamed","F IN CHAT Beamed You","Should Have Listened","Get beamed clowns","Nuked by B-83 ","oops got nuked","I run you","Nuked by B-83","I run you","kinda got beamed by yourself", "B-83 Launched", "boom", "nuke war", "𝐃𝐄𝐅𝐂𝐎𝐍 𝟏"]
