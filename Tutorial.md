@@ -1,6 +1,6 @@
-# Discord Nuke Bot 
+# B-83 Nuke Bot
 
-## Made by Over-EducatedFool 
+## Made by GeorgyMalenkov
 A complete code for a discord nuke bot!
 
 Looking for a code for a nuke bot ? This fully open source code is made for your project !
