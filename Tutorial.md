@@ -4,7 +4,7 @@
 A complete code for a discord nuke bot!
 
 ## WARNING !
-The Developer will not be responsible for what happens.
+The developer will not be responsible for what happens. So before you act, we ask you to think about what will happen to you!
 
 ### 🧰  Set-up
 
