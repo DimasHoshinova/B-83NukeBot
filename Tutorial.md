@@ -3,11 +3,8 @@
 ## Made by GeorgyMalenkov
 A complete code for a discord nuke bot!
 
-Looking for a code for a nuke bot ? This fully open source code is made for your project !
-
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/U2mefh6DtN)
-
-I also have a Youtube video of a full tutorial of this to see it click [here](https://www.youtube.com/c/OverEducatedFool).
+## WARNING !
+The Developer will not be responsible for what happens.
 
 ### 🧰  Set-up
 
